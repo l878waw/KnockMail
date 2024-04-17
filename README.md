@@ -4,7 +4,7 @@ Use it only against Accounts you have permission to do so.
 
 Usage:
   
-  python gmail.py EMAILADRESS PASSWORDLIST
+  python gmail.py josoel.alves@hotmail.com rockyou.txt
   
  Replace EMAILADRESS with a valid Email Adress like (test@gmail.com)
  Replace PASSWORDLIST with a valid Password List like (rockyou.txt)
